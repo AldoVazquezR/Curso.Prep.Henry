@@ -1,0 +1,11 @@
+Variables.
+Las variables son una manera de identificar a los datos para que puedan ser usados mas adelante.
+Strings.
+Es un tipo de variable en el que guardaremos texto.
+Funciones (Argumentos, return).
+Las funciones nos ayudan a dividir nuestro codigo en acciones especificas en el que usaremos los operadores, argumentos y retornos de datos.
+los argumentos son los datos que van entre parentecias de la funcion y el return es un retorno de datos que solicitemos en con las variables dento de la función.
+Declaraciones (If).
+El if lo usaremos para comparar entre dos datos con el cual solo retornaremos si cumple con la funcion o no (true ó false).
+Valores booleanos (true, false).
+Son valores con los que solo vamos a obtener dos respuestas verdadero ó falso depende de la condicion que queramos solucionar.
