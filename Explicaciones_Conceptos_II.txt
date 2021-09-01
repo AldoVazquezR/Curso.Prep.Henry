@@ -1,0 +1,7 @@
+For este es un bucle de codigo el cual se ejecutara siempre que se cumpla la condición
+asi hasta que nos devuelva un false.
+&& Esté va evaluar dos expresiones y si son verdaderas el codigo se ejecuta si una de las 
+expresiones o ambas son falsas nos devolvera false.
+|| Estó evaluara si uno de ellos es verdadore y devolvera true y ambas expresiones son falsas
+devolvera false.
+! Estó nos prgunta lo contrario de la expresión.
